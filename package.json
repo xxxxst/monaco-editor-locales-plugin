@@ -1,0 +1,54 @@
+{
+  "_from": "monaco-locales-plugin@^0.0.1",
+  "_id": "monaco-locales-plugin@0.0.1",
+  "_inBundle": false,
+  "_location": "/monaco-locales-plugin",
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "monaco-locales-plugin@^0.0.1",
+    "name": "monaco-locales-plugin",
+    "escapedName": "monaco-locales-plugin",
+    "rawSpec": "^0.0.1",
+    "saveSpec": null,
+    "fetchSpec": "^0.0.1"
+  },
+  "_requiredBy": [
+    "#DEV:/"
+  ],
+  "_resolved": "https://registry.npmjs.org/monaco-locales-plugin/-/monaco-locales-plugin-0.0.1.tgz",
+  "_spec": "monaco-locales-plugin@^0.0.1",
+  "author": {
+    "name": "xxxxst"
+  },
+  "bugs": {
+    "url": "https://github.com/xxxxst/monaco-locales-plugin/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "loader-utils": "^1.0.2"
+  },
+  "deprecated": false,
+  "description": "A webpack plugin for monaco-editor locales setting",
+  "devDependencies": {
+	  
+  },
+  "engines": {
+    "node": ">=0.12.0 || >= 4.3.0 < 5.0.0 || >=5.10"
+  },
+  "files": [
+    "lib",
+    "index.js"
+  ],
+  "homepage": "https://github.com/xxxxst/monaco-locales-plugin",
+  "license": "MIT",
+  "name": "monaco-locales-plugin",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xxxxst/monaco-locales-plugin.git"
+  },
+  "scripts": {
+	  
+  },
+  "version": "0.0.1"
+}
