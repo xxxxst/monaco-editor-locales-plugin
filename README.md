@@ -1,12 +1,12 @@
-# monaco-locales-plugin
+# monaco-editor-locales-plugin
 A webpack plugin for monaco-editor locales setting
 
-[https://github.com/xxxxst/monaco-locales-plugin](https://github.com/xxxxst/monaco-locales-plugin)
+[https://github.com/xxxxst/monaco-editor-locales-plugin](https://github.com/xxxxst/monaco-editor-locales-plugin)
 
 <h2 align="center">Install</h2>
 
 ```bash
-npm install --save-dev monaco-locales-plugin
+npm install --save-dev monaco-editor-locales-plugin
 ```
 
 <h2 align="center">Usage</h2>

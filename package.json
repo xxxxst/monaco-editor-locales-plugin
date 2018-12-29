@@ -1,14 +1,14 @@
 {
-  "_from": "monaco-locales-plugin@^0.0.1",
-  "_id": "monaco-locales-plugin@0.0.1",
+  "_from": "monaco-editor-locales-plugin@^0.0.1",
+  "_id": "monaco-editor-locales-plugin@0.0.1",
   "_inBundle": false,
-  "_location": "/monaco-locales-plugin",
+  "_location": "/monaco-editor-locales-plugin",
   "_requested": {
     "type": "range",
     "registry": true,
-    "raw": "monaco-locales-plugin@^0.0.1",
-    "name": "monaco-locales-plugin",
-    "escapedName": "monaco-locales-plugin",
+    "raw": "monaco-editor-locales-plugin@^0.0.1",
+    "name": "monaco-editor-locales-plugin",
+    "escapedName": "monaco-editor-locales-plugin",
     "rawSpec": "^0.0.1",
     "saveSpec": null,
     "fetchSpec": "^0.0.1"
@@ -16,13 +16,13 @@
   "_requiredBy": [
     "#DEV:/"
   ],
-  "_resolved": "https://registry.npmjs.org/monaco-locales-plugin/-/monaco-locales-plugin-0.0.1.tgz",
-  "_spec": "monaco-locales-plugin@^0.0.1",
+  "_resolved": "https://registry.npmjs.org/monaco-editor-locales-plugin/-/monaco-editor-locales-plugin-0.0.1.tgz",
+  "_spec": "monaco-editor-locales-plugin@^0.0.1",
   "author": {
     "name": "xxxxst"
   },
   "bugs": {
-    "url": "https://github.com/xxxxst/monaco-locales-plugin/issues"
+    "url": "https://github.com/xxxxst/monaco-editor-locales-plugin/issues"
   },
   "bundleDependencies": false,
   "dependencies": {
@@ -40,12 +40,12 @@
     "lib",
     "index.js"
   ],
-  "homepage": "https://github.com/xxxxst/monaco-locales-plugin",
+  "homepage": "https://github.com/xxxxst/monaco-editor-locales-plugin",
   "license": "MIT",
-  "name": "monaco-locales-plugin",
+  "name": "monaco-editor-locales-plugin",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xxxxst/monaco-locales-plugin.git"
+    "url": "git+https://github.com/xxxxst/monaco-editor-locales-plugin.git"
   },
   "scripts": {
 	  
