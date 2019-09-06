@@ -23,7 +23,7 @@ module.exports = {
              * all available embed languages: de,es,fr,it,ja,ko,ru,zh-cn,zh-tw
              * just add what you need to reduce the size
              */
-            language: [],
+            languages: [],
             /**
              * default language name, .eg "de"
              * use function string to set dynamic, .eg "getLanguageSetting()"
