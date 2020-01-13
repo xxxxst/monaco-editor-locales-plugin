@@ -1,23 +1,23 @@
 {
-  "_from": "monaco-editor-locales-plugin@^0.0.2",
-  "_id": "monaco-editor-locales-plugin@0.0.2",
+  "_from": "monaco-editor-locales-plugin@^0.0.3",
+  "_id": "monaco-editor-locales-plugin@0.0.3",
   "_inBundle": false,
   "_location": "/monaco-editor-locales-plugin",
   "_requested": {
     "type": "range",
     "registry": true,
-    "raw": "monaco-editor-locales-plugin@^0.0.2",
+    "raw": "monaco-editor-locales-plugin@^0.0.3",
     "name": "monaco-editor-locales-plugin",
     "escapedName": "monaco-editor-locales-plugin",
-    "rawSpec": "^0.0.2",
+    "rawSpec": "^0.0.3",
     "saveSpec": null,
-    "fetchSpec": "^0.0.2"
+    "fetchSpec": "^0.0.3"
   },
   "_requiredBy": [
     "#DEV:/"
   ],
-  "_resolved": "https://registry.npmjs.org/monaco-editor-locales-plugin/-/monaco-editor-locales-plugin-0.0.2.tgz",
-  "_spec": "monaco-editor-locales-plugin@^0.0.2",
+  "_resolved": "https://registry.npmjs.org/monaco-editor-locales-plugin/-/monaco-editor-locales-plugin-0.0.3.tgz",
+  "_spec": "monaco-editor-locales-plugin@^0.0.3",
   "author": {
     "name": "xxxxst"
   },
@@ -50,5 +50,5 @@
   "scripts": {
 	  
   },
-  "version": "0.0.2"
+  "version": "0.0.3"
 }
