@@ -37,7 +37,7 @@ module.exports = {
             /**
              * self languages map, .eg {"zh-cn": {"Find": "查找", "Search": "搜索"}, "de":{}, ... }
              */
-            mapLanguage: {},
+            mapLanguages: {},
         })
     ]
 }
